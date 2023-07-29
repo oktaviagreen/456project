@@ -25,7 +25,7 @@ Pastikan untuk menginstal library-library di atas sebelum menjalankan proyek ini
 1. Buka Google Colab di browser Anda: colab.research.google.com.
 1. Pilih menu "File" > "Open Notebook".
 1. Pilih tab "GitHub".
-1. asukkan URL repositori proyek ini: [URL Repositori].
+1. asukkan URL repositori proyek ini: [https://github.com/oktaviagreen/456project].
 1. Pilih notebook 456project.ipynb.
 1. Ikuti instruksi dalam notebook untuk melakukan analisis segmentasi customer menggunakan metode k-means clustering dan RFM analisis.
 
